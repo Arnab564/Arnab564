@@ -1,125 +1,163 @@
-<h1 align="center">Hi 👋, I'm Arnab Mohanty</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=210&lines=Hello%2C%20I'm%20Arnab%20Mohanty%20%F0%9F%A4%96;AI%2FML%20Practitioner%20%7C%20Deep%20Learning%20Enthusiast;Engineering%20Student%20%7C%20Tech%20Explorer" width="95%" alt="Typing Animation" />
+</div>
 
+---
 <h3 align="center">
 Aspiring AI/ML Engineer passionate about Deep Learning, Data Analytics, and building intelligent real-world applications.
 </h3>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=arnab564&label=Profile%20views&color=0e75b6&style=flat" alt="arnab564" />
-</p>
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=arnab564&theme=algolia&margin-w=10&margin-h=10" alt="arnab564" />
-</a>
-</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning & Data Analytics Projects**
-
-- 🌱 I’m currently learning **Deep Learning, CNNs, Transformers, FastAPI, Streamlit & Generative AI**
-
-- 👯 I’m looking to collaborate on **AI/ML Projects, Data Analytics Dashboards & Open Source Contributions**
-
-- 🤝 I’m looking for help with **MLOps, Cloud Deployment & Advanced Deep Learning**
-
-- 💬 Ask me about **Python, Machine Learning, Data Analytics, Power BI & Neural Networks**
-
-- 📫 How to reach me: **arnab.m2023btcseds@srisriuniversity.edu.in**
+- 🔭 Working on **Machine Learning, Deep Learning & Data Analytics Projects**
+- 🌱 Learning **CNNs, Transformers, FastAPI, Streamlit & Generative AI**
+- 👯 Open to collaborate on **AI/ML Projects & Data Analytics Dashboards**
+- 🤝 Seeking guidance in **MLOps, Cloud Deployment & Advanced DL**
+- 💬 Ask me about **Python, ML, Data Analytics, Power BI & Neural Networks**
+- 📫 Reach me at: **arnab.m2023btcseds@srisriuniversity.edu.in**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/arnab-mohanty-12ba87369/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab-linkedin" height="30" width="40" />
+<a href="https://github.com/arnab564" target="blank">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:arnab.m2023btcseds@srisriuniversity.edu.in">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+# 🛠️ Languages and Tools
 
 <p align="left">
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
 </a>
 
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/>
 </a>
 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+<a href="https://numpy.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
 </a>
 
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
 </a>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arnab564&show_icons=true&theme=tokyonight" alt="arnab564" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab564&theme=tokyonight" />
+</p>
+
+
+---
+
+# 📈 Extra Visualizations
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnab564&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab564&theme=tokyonight" alt="arnab564" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnab564&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arnab564&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab564&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="arnab564" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnab564&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arnab564&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/arnab564/arnab564/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/arnab564/arnab564/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnab564&theme=tokyo-night" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnab564&theme=tokyo-night" />
 </p>
 
 ---
 
-## 💡 Quote
+# 🎯 Badges
 
 <p align="center">
-"Transforming data into intelligent solutions through AI and continuous learning."
+
+<img src="https://img.shields.io/badge/Python-Expert-blue?logo=python&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-green?logo=TensorFlow&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Data%20Analytics-PowerBI-yellow?logo=PowerBI&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?logo=github&style=for-the-badge" />
+
 </p>
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arnab564&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
+</p>
+
+---
+
+# 💡 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```diff
++ I love building AI projects and exploring new technologies 🚀

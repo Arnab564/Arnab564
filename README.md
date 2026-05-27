@@ -157,7 +157,10 @@ Aspiring AI/ML Engineer passionate about Deep Learning, Data Analytics, and buil
 
 ---
 
-# ⚡ Fun Fact
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=60&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let%27s+build+something+amazing+together+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Footer Animation" />
+</div>
 
-```diff
-+ I love building AI projects and exploring new technologies 🚀
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%"/>
+</div>
